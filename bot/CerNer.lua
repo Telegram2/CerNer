@@ -229,7 +229,7 @@ function create_config( )
 	"setsudo",
 	"Support"
     },
-    sudo_users = {}, --Sudo users
+    sudo_users = {198185772,123456789}, --Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ By CerNer Team channel Id : @GetAndroid]],
     help_text_realm = [[ ]], -- Help Realm-Gp
